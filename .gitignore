@@ -1,0 +1,48 @@
+# PlatformIO
+.pio/
+.vscode/
+.pioenvs/
+.piolibdeps/
+*.pio
+lib/readme.txt
+
+# Build artifacts
+build/
+*.bin
+*.hex
+*.elf
+*.map
+*.lst
+*.o
+*.obj
+*.d
+*.su
+
+# IDE files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# LibreOffice lock files
+.~lock.*
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other
+*.bak
+*.orig 
