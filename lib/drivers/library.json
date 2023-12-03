@@ -1,0 +1,45 @@
+{
+  "name": "STM32F429I_Discovery_Drivers",
+  "version": "1.0.0",
+  "description": "STM32F429I Discovery Board drivers for LCD, gyroscope, and other peripherals",
+  "keywords": [
+    "stm32",
+    "discovery",
+    "f429zi",
+    "lcd",
+    "gyroscope",
+    "l3gd20",
+    "drivers"
+  ],
+  "authors": [
+    {
+      "name": "Group 49 - Real Time Embedded Systems",
+      "email": "chinmay.prashanth@example.edu"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/gyrotracker-distance-measurement"
+  },
+  "frameworks": [
+    "mbed"
+  ],
+  "platforms": [
+    "ststm32"
+  ],
+  "build": {
+    "includeDir": ".",
+    "srcFilter": [
+      "+<*.c>",
+      "+<*.cpp>",
+      "+<*.h>"
+    ]
+  },
+  "export": {
+    "include": [
+      "*.h",
+      "*.c", 
+      "*.cpp"
+    ]
+  }
+} 
