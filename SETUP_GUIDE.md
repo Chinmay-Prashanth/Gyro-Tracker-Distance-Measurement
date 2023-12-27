@@ -10,8 +10,8 @@
 ### 2. Project Setup
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd distance_recording_proj
+git clone https://github.com/Chinmay-Prashanth/Gyro-Tracker-Distance-Measurement.git
+cd Gyro-Tracker-Distance-Measurement
 
 # Open in PlatformIO
 pio project init --ide vscode  # For VSCode
@@ -154,4 +154,13 @@ Monitor baud rate: 9600 bps
 
 - Check [PlatformIO Documentation](https://docs.platformio.org/)
 - Review STM32F429I [Discovery Board Manual](https://www.st.com/en/evaluation-tools/32f429idiscovery.html)
-- See project [README.md](README.md) for technical details 
+- See project [README.md](README.md) for technical details
+
+---
+
+## 📧 **Contact & Support**
+
+**📧 Contact**: cp3873@nyu.edu  
+**🔗 Repository**: [github.com/Chinmay-Prashanth/Gyro-Tracker-Distance-Measurement](https://github.com/Chinmay-Prashanth/Gyro-Tracker-Distance-Measurement)  
+**🏆 Achievement**: 100/100 Final Score - Real Time Embedded Systems  
+**✅ Status**: Hardware Tested & Deployment Ready! 

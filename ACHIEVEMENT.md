@@ -30,4 +30,11 @@
 
 ---
 
+## 📧 **Contact & Repository**
+
+**📧 Contact**: cp3873@nyu.edu  
+**🔗 Repository**: [github.com/Chinmay-Prashanth/Gyro-Tracker-Distance-Measurement](https://github.com/Chinmay-Prashanth/Gyro-Tracker-Distance-Measurement)  
+**👨‍💻 Developer**: Chinmay Prashanth  
+**✅ Status**: Hardware Tested & Deployment Ready!
+
 🎯 **Outstanding achievement in Real Time Embedded Systems!** 

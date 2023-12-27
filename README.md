@@ -212,6 +212,12 @@ The system leverages the relationship between angular velocity and linear motion
 
 ---
 
-**Course**: Real Time Embedded Systems  
-**Semester**: Fall 2023  
-**Achievement**: 100/100 Final Score 
+## 📧 **Contact & Repository**
+
+**📧 Contact**: cp3873@nyu.edu  
+**🔗 Repository**: [github.com/Chinmay-Prashanth/Gyro-Tracker-Distance-Measurement](https://github.com/Chinmay-Prashanth/Gyro-Tracker-Distance-Measurement)  
+**👨‍💻 Developer**: Chinmay Prashanth  
+**🎓 Course**: Real Time Embedded Systems  
+**📅 Semester**: Fall 2023  
+**🏆 Achievement**: 100/100 Final Score  
+**✅ Status**: Hardware Tested & Deployment Ready! 

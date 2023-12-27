@@ -33,12 +33,15 @@
 
 ## 🛠️ Development Stack
 - **Platform**: PlatformIO
-- **Framework**: Mbed OS
+- **Framework**: STM32Cube (Hardware Tested ✅)
 - **Language**: C++
 - **Hardware**: STM32F429I Discovery Board
+- **Status**: Deployment Ready
 
 ---
 
+**📧 Contact**: cp3873@nyu.edu  
+**🔗 Repository**: [Gyro-Tracker-Distance-Measurement](https://github.com/Chinmay-Prashanth/Gyro-Tracker-Distance-Measurement)  
 **Team Effort**: Alston Shi, Chinmay Prashanth, Leshan Wang  
 **Course**: Real Time Embedded Systems  
 **Score**: 100/100 🎉 
