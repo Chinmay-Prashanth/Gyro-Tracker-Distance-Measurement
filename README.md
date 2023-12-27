@@ -136,8 +136,15 @@ distance_recording_proj/
 │   └── Calib_trail.cpp         # Calibration program
 ├── lib/
 │   └── drivers/                # STM32 and LCD drivers
+├── media/
+│   ├── images/                 # Test result images and score card
+│   └── videos/                 # Demo videos
+├── docs/
+│   └── reports/                # Project reports and documentation
 ├── platformio.ini              # PlatformIO configuration
-└── README.md                   # This file
+├── README.md                   # This file
+├── SETUP_GUIDE.md             # PlatformIO setup instructions
+└── PROJECT_SUMMARY.md         # Quick project overview
 ```
 
 ### Usage Instructions
